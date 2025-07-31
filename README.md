@@ -1,6 +1,9 @@
 # excel_coffee_sales
 
 
+The project's methodology includes several key steps: Exploratory Data Analysis (EDA) to visualize sales trends, data preparation for machine learning, and training a simple linear regression model to predict sales. The project utilizes tools such as ML, SQL, and Excel, with the example code demonstrating the use of Python libraries like pandas, scikit-learn, matplotlib, and seaborn.
+The ultimate goal is to provide insights that can be used to optimize inventory planning, design vending machine layouts, and determine ideal restock times.
+
 Project Overview
 
  * Objective: The analysis aims to understand customer purchasing patterns and sales trends from a coffee vending machine.
@@ -40,6 +43,9 @@ Key Findings
      
    * Certain products like Cappuccino, Cocoa, and Hot Chocolate are more popular in the evening, specifically between 6:00 PM and 8:00 PM.
 Business Implications
+
  * Inventory and Planning: The findings on popular products and sales trends can be used to optimize inventory planning and determine ideal restock times for coffee products.
+   
  * Vending Machine Optimization: The analysis provides valuable insights for designing the layout of vending machines.
+   
  * Marketing and Strategy: Understanding peak hours and popular products can inform targeted marketing campaigns and promotions.
