@@ -1,7 +1,10 @@
 # excel_coffee_sales
 
 
-The project's methodology includes several key steps: Exploratory Data Analysis (EDA) to visualize sales trends, data preparation for machine learning, and training a simple linear regression model to predict sales. The project utilizes tools such as ML, SQL, and Excel, with the example code demonstrating the use of Python libraries like pandas, scikit-learn, matplotlib, and seaborn.
+The project's methodology includes several key steps:
+
+Exploratory Data Analysis (EDA) to visualize sales trends, data preparation for machine learning, and training a simple linear regression model to predict sales. The project utilizes tools such as ML, SQL, and Excel, with the example code demonstrating the use of Python libraries like pandas, scikit-learn, matplotlib, and seaborn.
+
 The ultimate goal is to provide insights that can be used to optimize inventory planning, design vending machine layouts, and determine ideal restock times.
 
 Project Overview
