@@ -15,6 +15,28 @@ Project Overview
    
  * Methodology: The project used Exploratory Data Analysis (EDA) to find patterns and trends in sales data. It also includes a machine learning model using a Linear Regression model to predict sales.
 
+![WhatsApp Image 2025-07-31 at 22 13 01_e3587731](https://github.com/user-attachments/assets/9d5ae472-96a9-432b-bb73-95fa7c769542)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
 
 
 Key Findings
