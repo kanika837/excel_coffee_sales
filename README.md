@@ -52,3 +52,6 @@ Business Implications
  * Vending Machine Optimization: The analysis provides valuable insights for designing the layout of vending machines.
    
  * Marketing and Strategy: Understanding peak hours and popular products can inform targeted marketing campaigns and promotions.
+
+![WhatsApp Image 2025-07-31 at 22 13 01_4a9ea6c6](https://github.com/user-attachments/assets/9383f25f-5f35-401a-9273-72f20116a976)
+
