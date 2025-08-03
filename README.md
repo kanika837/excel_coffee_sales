@@ -7,7 +7,7 @@ Exploratory Data Analysis (EDA) to visualize sales trends, data preparation for 
 
 The ultimate goal is to provide insights that can be used to optimize inventory planning, design vending machine layouts, and determine ideal restock times.
 
-Project Overview
+# Project Overview
 
  * Objective: The analysis aims to understand customer purchasing patterns and sales trends from a coffee vending machine.
    
@@ -39,7 +39,7 @@ Project Overview
 
 
 
-Key Findings
+# Key Findings
 
  * Popular Products:
    
@@ -67,7 +67,9 @@ Key Findings
    * All products generally experience a peak in sales around 10:00 AM.
      
    * Certain products like Cappuccino, Cocoa, and Hot Chocolate are more popular in the evening, specifically between 6:00 PM and 8:00 PM.
-Business Implications
+  
+     
+# Business Implications
 
  * Inventory and Planning: The findings on popular products and sales trends can be used to optimize inventory planning and determine ideal restock times for coffee products.
    
